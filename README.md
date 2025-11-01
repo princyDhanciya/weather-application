@@ -1,6 +1,6 @@
 # 🌦️ Weather Application
 
-A simple and interactive **Weather Application** that allows users to get real-time weather information of any city around the world. Built using **HTML**, **CSS**, and **JavaScript** (or React, if you’re using that), and powered by an external weather API such as **OpenWeatherMap**.
+A simple and interactive **Weather Application** that allows users to get real-time weather information of any city around the world. Built using **HTML**, **CSS**, and **JavaScript** , and powered by an external weather API such as **OpenWeatherMap**.
 
 ---
 
